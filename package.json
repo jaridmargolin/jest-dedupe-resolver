@@ -1,7 +1,11 @@
 {
   "name": "jest-dedupe-resolver",
-  "homepage": "https://github.com/jaridmargolin/jest-dedupe-resolver",
+  "version": "0.0.1",
+  "author": "Jarid Margolin <jaridmargolin@gmail.com>",
   "description": "Custom Jest resolver to remove duplicate dependencies caused by `npm link`",
+  "homepage": "https://github.com/jaridmargolin/jest-dedupe-resolver",
+  "repository": "github:jaridmargolin/jest-dedupe-resolver",
+  "license": "MIT",
   "main": "lib/resolver.js",
   "scripts": {
     "codecov": "codecov",
