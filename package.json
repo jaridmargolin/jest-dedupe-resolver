@@ -21,7 +21,7 @@
     "semver": "^5.5.0"
   },
   "devDependencies": {
-    "codecov": "3.0.2",
+    "codecov": "3.0.4",
     "eslint": "5.1.0",
     "eslint-config-standard": "11.0.0",
     "eslint-plugin-import": "2.13.0",
