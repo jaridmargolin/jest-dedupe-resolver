@@ -15,7 +15,7 @@
     "test": "nyc --reporter=lcov --reporter=text jest"
   },
   "dependencies": {
-    "chalk": "^2.4.1",
+    "debug": "^4.1.1",
     "jest-resolve": "^23.2.0",
     "read-pkg-up": "^4.0.0",
     "semver": "^5.5.0"
