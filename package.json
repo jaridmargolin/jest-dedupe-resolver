@@ -17,7 +17,7 @@
   "dependencies": {
     "debug": "^4.1.1",
     "jest-resolve": "^23.2.0",
-    "read-pkg-up": "^4.0.0",
+    "read-pkg-up": "^7.0.0",
     "semver": "^5.5.0"
   },
   "devDependencies": {
